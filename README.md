@@ -4,4 +4,4 @@ You will find some machine learning cheat sheets and the corresponding Jupter fi
 ## 2. NumPy Cheat Sheet
 ## 3. Pandas Cheat Sheet
 ## 4. Matplotlib Cheat Sheet
-## 5. Scikit-Learning Cheat Sheet
+## [5. Scikit-Learning Cheat Sheet](https://github.com/MLtrends/Machine-Learning-Cheat-Sheets/blob/main/Scikit-Learn%20Cheat%20Sheet/SciKit-Learn%20Cheat%20Sheets.pdf)
